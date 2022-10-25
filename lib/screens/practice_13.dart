@@ -11,7 +11,7 @@ class Practice13 extends StatelessWidget {
             child: Center(
           child: Container(
             margin: EdgeInsets.only(left: 20, right: 20),
-            color: Color.fromARGB(244, 244, 244, 255),
+            color: Color.fromARGB(255, 244, 244, 244),
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: <Widget>[

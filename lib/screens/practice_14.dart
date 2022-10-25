@@ -21,7 +21,7 @@ class Practice14 extends StatelessWidget {
                       crossAxisCount: 2,
                       children: <Widget>[
                         Container(
-                          color: Color.fromARGB(244, 244, 244, 255),
+                          color: Color.fromARGB(255, 244, 244, 244),
                           padding: const EdgeInsets.all(8),
                           child: Column(
                             mainAxisSize: MainAxisSize.min,
@@ -53,7 +53,7 @@ class Practice14 extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          color: Color.fromARGB(244, 244, 244, 255),
+                          color: Color.fromARGB(255, 244, 244, 244),
                           padding: const EdgeInsets.all(8),
                           child: Column(
                             mainAxisSize: MainAxisSize.min,
@@ -85,7 +85,7 @@ class Practice14 extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          color: Color.fromARGB(244, 244, 244, 255),
+                          color: Color.fromARGB(255, 244, 244, 244),
                           padding: const EdgeInsets.all(8),
                           child: Column(
                             mainAxisSize: MainAxisSize.min,
@@ -117,7 +117,7 @@ class Practice14 extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          color: Color.fromARGB(244, 244, 244, 255),
+                          color: Color.fromARGB(255, 244, 244, 244),
                           padding: const EdgeInsets.all(8),
                           child: Column(
                             mainAxisSize: MainAxisSize.min,
@@ -149,7 +149,7 @@ class Practice14 extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          color: Color.fromARGB(244, 244, 244, 255),
+                          color: Color.fromARGB(255, 244, 244, 244),
                           padding: const EdgeInsets.all(8),
                           child: Column(
                             mainAxisSize: MainAxisSize.min,
@@ -180,7 +180,7 @@ class Practice14 extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          color: Color.fromARGB(244, 244, 244, 255),
+                          color: Color.fromARGB(255, 244, 244, 244),
                           padding: const EdgeInsets.all(8),
                           child: Column(
                             mainAxisSize: MainAxisSize.min,
