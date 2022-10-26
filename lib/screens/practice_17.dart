@@ -21,6 +21,19 @@ class Practice17 extends StatelessWidget {
                   ),
                 ),
                 Align(
+                  alignment: Alignment.topRight,
+                  child: Container(
+                    margin: EdgeInsets.only(right: 10),
+                    height: 25,
+                    width: 25,
+                    child: Icon(
+                      Icons.favorite_border,
+                      size: 35.0,
+                      semanticLabel: 'Text to announce in accessibility modes',
+                    ),
+                  ),
+                ),
+                Align(
                   alignment: Alignment.bottomCenter,
                   child: (Container(
                     color: Colors.black.withOpacity(0.5),
