@@ -40,10 +40,8 @@ class Practice21 extends StatelessWidget {
                       borderRadius: BorderRadius.all(Radius.circular(20)),
                       color: const Color(0xfff4d3d2),
                     ),
-                    margin:
-                        EdgeInsets.only(top: 15, bottom: 12, left: 2, right: 5),
-                    padding:
-                        EdgeInsets.only(top: 7, bottom: 2, left: 2, right: 2),
+                    margin: EdgeInsets.only(top: 15, bottom: 12, left: 5),
+                    padding: EdgeInsets.only(top: 7, bottom: 2, left: 2),
                     width: 80,
                     child: Text(
                       "Trending",
@@ -55,10 +53,8 @@ class Practice21 extends StatelessWidget {
                       borderRadius: BorderRadius.all(Radius.circular(20)),
                       color: const Color(0xfff4d3d2),
                     ),
-                    margin:
-                        EdgeInsets.only(top: 15, bottom: 12, left: 2, right: 5),
-                    padding:
-                        EdgeInsets.only(top: 7, bottom: 2, left: 2, right: 2),
+                    margin: EdgeInsets.only(top: 15, bottom: 12, left: 2),
+                    padding: EdgeInsets.only(top: 7, bottom: 2, left: 2),
                     width: 80,
                     child: Text(
                       "Popular",
@@ -85,10 +81,8 @@ class Practice21 extends StatelessWidget {
                       borderRadius: BorderRadius.all(Radius.circular(20)),
                       color: const Color(0xfff4d3d2),
                     ),
-                    margin:
-                        EdgeInsets.only(top: 15, bottom: 12, left: 2, right: 5),
-                    padding:
-                        EdgeInsets.only(top: 7, bottom: 2, left: 2, right: 2),
+                    margin: EdgeInsets.only(top: 15, bottom: 12, right: 5),
+                    padding: EdgeInsets.only(top: 7, bottom: 2, right: 2),
                     width: 80,
                     child: Text(
                       "Mobiles",
@@ -122,7 +116,7 @@ class Practice21 extends StatelessWidget {
                           children: [
                             Text(products[index],
                                 style: const TextStyle(
-                                    fontSize: 25, fontWeight: FontWeight.w700),
+                                    fontSize: 20, fontWeight: FontWeight.w700),
                                 textAlign: TextAlign.left),
                             Text(time[index],
                                 style: const TextStyle(

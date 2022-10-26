@@ -92,7 +92,7 @@ class Practice20 extends StatelessWidget {
                     ],
                   ),
                   SizedBox(
-                    width: 50,
+                    width: 115,
                   ),
                   Icon(
                     Icons.favorite_border,
@@ -116,7 +116,7 @@ class Practice20 extends StatelessWidget {
                       fontWeight: FontWeight.w300)),
             ),
             SizedBox(
-              height: 15,
+              height: 25,
             ),
             Container(
                 width: double.infinity,
@@ -133,28 +133,28 @@ class Practice20 extends StatelessWidget {
                               width: 1.2,
                               color: Color.fromARGB(255, 17, 105, 215)),
                           backgroundColor: Color.fromARGB(255, 255, 255, 255),
-                          minimumSize: Size(250, 50)),
+                          minimumSize: Size(100, 50)),
                       child: const Text(
                         'ADD TO CART',
                         style: TextStyle(
                           color: Color.fromARGB(255, 17, 105, 215),
-                          fontSize: 25,
+                          fontSize: 22,
                         ),
                       ),
                     ),
                     SizedBox(
-                      width: 50,
+                      width: 10,
                     ),
                     ElevatedButton(
                       onPressed: () {},
                       style: ElevatedButton.styleFrom(
                           backgroundColor: Color.fromARGB(255, 17, 105, 215),
-                          minimumSize: Size(250, 50)),
+                          minimumSize: Size(100, 50)),
                       child: const Text(
                         'BUY NOW',
                         style: TextStyle(
                           color: Colors.white,
-                          fontSize: 25,
+                          fontSize: 22,
                         ),
                       ),
                     ),
