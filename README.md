@@ -25,7 +25,7 @@
 
 ### Practice 6
 
-![Practice 6](./screenshots/SS_06.jpg
+![Practice 6](./screenshots/SS_06.jpg)
 
 ### Practice 7
 
@@ -85,7 +85,7 @@
 
 ### Practice 21
 
-![Practice 21](./screenshots/SS_21.jpg
+![Practice 21](./screenshots/SS_21.jpg)
 
 ### Practice 22
 
